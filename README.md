@@ -18,3 +18,26 @@ Motive of this repo is as mentioned below👇
 1. Milestone will be created on the weekly based.
 2. As we know that milestones are used on issues and pull request. So, we try to use this in issue.
 
+
+
+Day 2
+
+1. installation of xampp comes with php and Apache 
+
+2. installation of composer
+
+3. installation of laravel with help of composer. it has two type of installation
+   a. global installation
+   b. per project installation
+
+**let's discuss type of installation of laravel**
+
+1. global installation
+   a. one time download
+   b. installation is fast
+   c. it comes with two step code
+
+2. per project installation
+   a. every time download
+   b. installation is slow
+   c. it comes one step code
