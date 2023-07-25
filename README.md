@@ -47,3 +47,6 @@ Day 3
 
 Created a rule for this repo. 
 Rule are as follow "main" branch will not mirge directly 
+
+
+Add new tag as v* version* release*
