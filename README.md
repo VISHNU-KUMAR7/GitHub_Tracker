@@ -53,3 +53,7 @@ Add new tag as v* version* release*
 
 
 Manually created branch as "Test_branch"
+
+
+New issues created for update for today's work on laravel. 
+
