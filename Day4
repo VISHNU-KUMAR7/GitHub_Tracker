@@ -13,3 +13,8 @@ Today is Day 4
 4. "Zuo" has become the intermediate in the jenkins. 
 
 5. Discussion tab was available in between pull request and Actions tab. 
+
+6. As I work today in one of the cases where the user was confused about the "Generated a Identity token" and "access token". User say that if idendity token will expire after 90 days with repective to this all access token will revoke. 
+  But when I try on this case as per the user request, I found that this is not possible. As identity token and access token are same.
+  With the help of an access token, we can able to generate a new token. 
+  And if the identity token is revoked or expired, with respective of all access tokens will not effect. 
