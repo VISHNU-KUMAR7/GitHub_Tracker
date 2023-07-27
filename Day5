@@ -14,6 +14,13 @@ Following are the steps for the integration:
   - Copy the link which is in between the page. 
   - This will help in configuring the webhook in github. 
   - Save the page. 
+4. Open the Github and go to the webhook page cofiguration
+  - Click on "Add Webhook"
+  - Give some name/title
+  - Paste the Webhook URL which is copyed from the line no 3
+  - type will be json. 
+  - Selection the notification as per the requirement. 
+  - Save the page. 
 
 
 
