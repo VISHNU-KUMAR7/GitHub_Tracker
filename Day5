@@ -10,6 +10,11 @@ Following are the steps for the integration:
   - It will send the link with 1:1 space. 
   - Open the link. It will expire after 10 mins
   - It will navigate to a new page in Borwser. 
+3. Now, we have to add the notification 
+  - Copy the link which is in between the page. 
+  - This will help in configuring the webhook in github. 
+  - Save the page. 
+
 
 
 
