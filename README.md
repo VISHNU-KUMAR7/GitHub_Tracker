@@ -41,3 +41,19 @@ Day 2
    a. every time download
    b. installation is slow
    c. it comes one step code
+
+
+Day 3
+
+Created a rule for this repo. 
+Rule are as follow "main" branch will not mirge directly 
+
+
+Add new tag as v* version* release*
+
+
+Manually created branch as "Test_branch"
+
+
+New issues created for update for today's work on laravel. 
+

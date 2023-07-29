@@ -1,0 +1,28 @@
+Day 5
+
+
+# 1
+Able to integrate Webex and Github & Bitbucket. 
+Following are the steps for the integration:
+0. Created a space on Webex. Give any random name for the space. 
+1. Open the URL[^1] for adding the GitHub/Bitbucket bot
+2. Type @Github manage. 
+  - It will send the link with 1:1 space. 
+  - Open the link. It will expire after 10 mins
+  - It will navigate to a new page in Borwser. 
+3. Now, we have to add the notification 
+  - Copy the link which is in between the page. 
+  - This will help in configuring the webhook in github. 
+  - Save the page. 
+4. Open the Github and go to the webhook page cofiguration
+  - Click on "Add Webhook"
+  - Give some name/title
+  - Paste the Webhook URL which is copyed from the line no 3
+  - type will be json. 
+  - Selection the notification as per the requirement. 
+  - Save the page. 
+
+
+
+
+[^1]: https://apphub.webex.com/
