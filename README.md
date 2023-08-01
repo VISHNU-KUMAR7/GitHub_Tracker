@@ -46,8 +46,10 @@ Day 2
 Day 3
 
 Created a rule for this repo. 
+
 Rule are as follow "main" branch will not mirge directly 
 
+.
 
 Add new tag as v* version* release*
 
@@ -56,4 +58,12 @@ Manually created branch as "Test_branch"
 
 
 New issues created for update for today's work on laravel. 
+
+
+
+**Day 10**
+created a new branch from day 7.🕖☺️
+Branch start from day 7
+
+
 
