@@ -10,7 +10,7 @@ Motive of this repo is as mentioned below👇
 2. Go through the code
 
 **GitHub issue**
-1. created a 1 happy issue to through how issue UI looks.
+1. created a 1 happy issue to go through how issue UI looks & work.
 2. Due to internet issue created a 2 issue with same discription.
 3. Issue's  label are used to sort the issue. No other purpose of using this.💁‍♂️
    
