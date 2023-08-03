@@ -12,3 +12,8 @@ Deploy the image on k8s
 ```
 kubectl get deployment
 ```
+
+Get list of node 
+```
+kubectl get pod
+```
