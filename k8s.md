@@ -22,3 +22,8 @@ Get list of node
 ```
 kubectl get pod
 ```
+
+Get the ip of the pod
+```
+kubectl get pods -o wide
+```
