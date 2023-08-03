@@ -57,3 +57,8 @@ rc = replica controller.
 ```
 kubectl get rc
 ```
+
+Describe the Replica controller(rc)
+```
+kubctl describe rc <replica_controller>
+```
