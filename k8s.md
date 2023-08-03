@@ -35,5 +35,5 @@ kubect label pods myname=vishnu
 
 List out all the label based on pods
 ```
-kubect get pods --list-labels
+kubectl get pods --list-labels
 ```
