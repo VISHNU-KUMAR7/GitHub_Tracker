@@ -27,3 +27,8 @@ Get the ip of the pod
 ```
 kubectl get pods -o wide
 ```
+
+Set label via cmd on pod
+```
+kubect label pods myname=vishnu
+```
