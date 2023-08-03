@@ -30,7 +30,7 @@ kubectl get pods -o wide
 
 Set label via cmd on pod
 ```
-kubect label pods myname=vishnu
+kubect label pods <pod_name> myname=vishnu
 ```
 
 List out all the label based on pods
