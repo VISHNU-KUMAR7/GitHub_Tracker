@@ -42,4 +42,7 @@ List out all the label based on pods
 kubectl get pods --show-labels
 ```
 
-
+Delete the pods based on label
+```
+kubectl delete pods -l <key>=<value>
+```
