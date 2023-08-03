@@ -62,3 +62,8 @@ Describe the Replica controller(rc)
 ```
 kubctl describe rc <replica_controller>
 ```
+
+Increase the replicas from cmd line. ie scale
+```
+kubectl scale --replicas=8 rc -l myname=vishnu
+```
