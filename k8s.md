@@ -46,3 +46,8 @@ Delete the pods based on label
 ```
 kubectl delete pods -l <key>=<value>
 ```
+
+List the pods based on the label but single key and multiple values
+```
+kubectl get pods -l '<key> in (<value1>, <value1>)'
+```
