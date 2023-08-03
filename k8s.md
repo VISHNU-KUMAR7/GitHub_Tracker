@@ -2,6 +2,11 @@
 
 Started a **minikube start**
 
+check the status of minikube
+```
+minikube status
+```
+
 Downloaded the image of nginx
 
 ```
