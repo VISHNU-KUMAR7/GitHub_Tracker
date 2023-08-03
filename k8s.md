@@ -51,3 +51,9 @@ List the pods based on the label but single key and multiple values
 ```
 kubectl get pods -l '<key> in (<value1>, <value1>)'
 ```
+
+Get the list of replica set 
+rc = replica controller.
+```
+kubectl get rc
+```
