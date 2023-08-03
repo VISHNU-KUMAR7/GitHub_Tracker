@@ -22,6 +22,10 @@ Get list of node
 ```
 kubectl get pod
 ```
+List of pod based on label
+```
+kubectl get pods -l <key>=<value>
+```
 
 Get the ip of the pod
 ```
@@ -37,3 +41,5 @@ List out all the label based on pods
 ```
 kubectl get pods --show-labels
 ```
+
+
