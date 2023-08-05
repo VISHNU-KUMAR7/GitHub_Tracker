@@ -13,6 +13,10 @@ List all pods in all namespaces
 ```
 kubectl get pods --all-namespaces
 ```
+Get all pods with label
+```
+kubectl get pods --show-labels
+```
 
 List all pods in the current namespace, with more details
 ```
