@@ -45,3 +45,8 @@ Overwrite the label for the pods
 ```
 kubectl label pods <pods_name> <key>=<new_label>
 ```
+
+Delete the pods based on label match 
+```
+kubectl delete pods -l <key>=<value>
+```
