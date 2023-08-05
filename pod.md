@@ -50,3 +50,8 @@ Delete the pods based on label match
 ```
 kubectl delete pods -l <key>=<value>
 ```
+
+Delete the pods immediately (no grade period) for particular pod
+```
+kubectl delete pods <pods_name> --now
+```
