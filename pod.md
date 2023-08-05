@@ -30,3 +30,8 @@ Get the pods details in json format
 ```
 kubectl get pods <pods_name> -o json
 ```
+
+Add label in the pods 
+```
+kubectl label pods <pods_name> <key>=<value>
+```
