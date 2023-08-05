@@ -26,3 +26,7 @@ Get a pod's YAML
 ```
 kubectl get pods <pods_name> -o yaml
 ```
+Get the pods details in json format
+```
+kubectl get pods <pods_name> -o json
+```
