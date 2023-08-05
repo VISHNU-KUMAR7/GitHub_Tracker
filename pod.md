@@ -40,3 +40,8 @@ Remove the label for particular key to the pods
 ```
 kubectl label pods <pods_name> <key>-
 ```
+
+Overwrite the label for the pods
+```
+kubectl label pods <pods_name> <key>=<new_label>
+```
