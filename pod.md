@@ -12,3 +12,7 @@ List all pods in the current namespace, with more details
 ```
 kubectl get pods -o wide
 ```
+Get a pod's YAML
+```
+kubectl get pods <pods_name> -o yaml
+```
