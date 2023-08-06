@@ -16,4 +16,5 @@ If you update the value in configMap.
 It required recreating the container which is not acceptedable. 
 So, why not you go for volume mount, 
 
+Insted of useing env use them as file. 
 
