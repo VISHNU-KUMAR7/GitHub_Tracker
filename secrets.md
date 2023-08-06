@@ -7,3 +7,12 @@ configmap is stored in etcd.
 Any data in secrets. encrspt before saving in etcd. 
 
 It's also available as custom encryption. 
+
+
+User ------> Yaml -----> configmap ----> API -----> etcd
+
+describe or edit the configmap. or got to etcd. 
+So, comparmise the configmap. 
+
+
+Secrets should have least privilege like AWS's IAM
