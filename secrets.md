@@ -15,4 +15,5 @@ describe or edit the configmap. or got to etcd.
 So, comparmise the configmap. 
 
 
-Secrets should have least privilege like AWS's IAM
+Secrets should have the least privilege like AWS's IAM
+using RBAC. 
