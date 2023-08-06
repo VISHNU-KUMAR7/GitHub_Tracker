@@ -17,3 +17,8 @@ So, comparmise the configmap.
 
 Secrets should have the least privilege like AWS's IAM
 using RBAC. 
+
+
+
+Generat a secreat using cmd line
+kubectl create secret generic <nameofsecret> --from-literal=db-port="3306"
