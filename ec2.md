@@ -39,3 +39,9 @@ sudo docker pull jenkins/jenkins:lts
 
 # Run Jenkins container
 sudo docker run -d -p 8080:8080 -p 50000:50000 --name jenkins-container jenkins/jenkins:lts
+
+# Go inside the docker
+sudo docker exec -it jenkins-container /bin/bash
+
+# Get the password
+cat /var/jenkins_home/secrets/initialAdminPassword
