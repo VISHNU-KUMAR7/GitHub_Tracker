@@ -17,3 +17,9 @@ value: "Hello work"
 "
 
 Run the cmd in terminal"terraform plan"
+
+3. 
+
+same code as above but in json format.
+This one o didn't understand.
+😭
