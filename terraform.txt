@@ -8,3 +8,12 @@ install the terraform in window.
 Folder contain a binary file.
 It need to add in environment variable 
 
+2. 
+
+Write a Hello world.
+
+output "block_first"{
+value: "Hello work"
+"
+
+Run the cmd in terminal"terraform plan"
