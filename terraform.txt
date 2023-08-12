@@ -39,3 +39,25 @@ value: "output from 2nd block"
 
 similar way there may be multiple block in single file.
 To this same command "terraform plan"
+
+
+
+
+5.
+
+multiple terraform file in same directory
+
+suppose you created 2 file.
+
+file1.tf
+
+output "file1block1"{
+value: " hello from file 1 block 1"
+}
+
+
+file2.tf
+
+output "file2block1"{
+value:"hello world feom file2 block1"
+}
