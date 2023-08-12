@@ -1,2 +1,10 @@
 terraform cmd
 
+Recap
+
+1.
+
+install the terraform in window.
+Folder contain a binary file.
+It need to add in environment variable 
+
