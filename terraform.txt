@@ -61,3 +61,24 @@ file2.tf
 output "file2block1"{
 value:"hello world feom file2 block1"
 }
+
+
+
+6.
+
+
+use variable in terraform 
+
+file.tf
+
+
+variable "blockofvariable"{
+name="Vishnu Kumar "
+}
+
+output  "block"{
+value: "hello from block to ${var.blockofvariable(name)}"
+}
+
+
+
