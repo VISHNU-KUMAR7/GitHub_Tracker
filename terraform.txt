@@ -23,3 +23,19 @@ Run the cmd in terminal"terraform plan"
 same code as above but in json format.
 This one o didn't understand.
 😭
+
+
+4.
+
+Single terraform file with multiple block
+
+output "block1"{
+value: "output from 1st block"
+}
+
+output "block2"{
+value: "output from 2nd block"
+}
+
+similar way there may be multiple block in single file.
+To this same command "terraform plan"
