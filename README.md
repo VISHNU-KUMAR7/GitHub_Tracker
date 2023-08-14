@@ -27,3 +27,8 @@ For Every resource try to make a separate file.
 
 
 keep all variables in a file. Name as "terraform.tfvars"
+
+Each varible need to initilied before  
+variable "block"{
+type
+}
