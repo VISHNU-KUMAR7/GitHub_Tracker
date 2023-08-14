@@ -14,4 +14,6 @@ terraform taint <remote_resource_name>.<local_resource_name>
 
 terraform output
 
-terraform console. 
+terraform console.
+
+terraform validate
