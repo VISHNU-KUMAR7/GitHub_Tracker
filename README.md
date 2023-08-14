@@ -25,3 +25,5 @@ export TF_VARS_<key>=<value>
 
 For Every resource try to make a separate file. 
 
+
+keep all variables in a file. Name as "terraform.tfvars"
