@@ -23,3 +23,5 @@ WE save credentials globally.
 export TF_VARS_<key>=<value>
 
 
+For Every resource try to make a separate file. 
+
