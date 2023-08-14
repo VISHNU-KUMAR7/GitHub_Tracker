@@ -17,3 +17,9 @@ terraform output
 terraform console.
 
 terraform validate
+
+
+WE save credentials globally. 
+export TF_VARS_<key>=<value>
+
+
