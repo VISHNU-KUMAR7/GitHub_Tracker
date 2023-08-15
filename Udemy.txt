@@ -17,3 +17,6 @@ resource "response_type" " localname" {}
 
 
 
+tf destroy -target <resource type>.<local name>
+
+this will destroy the specific resource 
