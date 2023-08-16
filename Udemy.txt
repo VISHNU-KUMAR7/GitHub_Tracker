@@ -29,3 +29,6 @@ It is ised to define variable within a model or configuration file for reusabili
 locals{
 variable= value
 }
+
+
+locals may or may not be in separate file....
