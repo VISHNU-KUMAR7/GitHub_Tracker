@@ -1,0 +1,22 @@
+what is provider and write down formt
+
+provider "aws"{}
+
+always need to run command tf init
+
+
+
+
+what is resources and write down format
+
+there will be two important area
+1. resource type (immutable
+2. local name 
+
+resource "response_type" " localname" {}
+
+
+
+tf destroy -target <resource type>.<local name>
+
+this will destroy the specific resource 
