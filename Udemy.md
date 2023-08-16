@@ -20,3 +20,16 @@ resource "response_type" " localname" {}
 tf destroy -target <resource type>.<local name>
 
 this will destroy the specific resource 
+
+
+**locals**
+
+It is used to define variable within a model or configuration file for reusability and to simplify complex expressions or calculation.
+
+
+locals{
+variable= value
+}
+
+
+locals may or may not be in separate file....
