@@ -11,6 +11,7 @@ terraform plan
 terraform apply
 
 terraform destroy
+terraform destroy -target <remote>.<local>
  
 
 terraform workspace list
