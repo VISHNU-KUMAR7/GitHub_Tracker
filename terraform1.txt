@@ -10,10 +10,11 @@ terraform plan
 
 terraform apply
 
-terraform destroy 
+terraform destroy
+ 
 
 terraform workspace list
-terraform worksapce new <workspace_name>
+terraform workspace new <workspace_name>
 terraform workspace select <workspace_name>
 
 
