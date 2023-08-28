@@ -4,7 +4,7 @@ terraform fmt
 
 terraform validate
 
-terrafrom output
+terraform output
 
 terraform plan
 
@@ -12,9 +12,9 @@ terraform apply
 
 terraform destroy 
 
-terrform workspace list
-terrform worksapce new <workspace_name>
-terrform workspace select <workspace_name>
+terraform workspace list
+terraform worksapce new <workspace_name>
+terraform workspace select <workspace_name>
 
 
 terraform state list    
